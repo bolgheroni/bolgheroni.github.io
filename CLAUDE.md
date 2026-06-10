@@ -14,6 +14,7 @@ The job is to fix, organize, and lightly connect — not to rewrite. His words c
 - Reorder paragraphs if it makes the flow more coherent
 - Add a short connecting sentence if an idea is cut too soon and needs one more beat to land — but use his register, not yours
 - Fix grammar properly, including prepositions and other non-native slips ("confidence on the quality" → "confidence in the quality")
+- Propose editorial changes beyond copy editing — like surfacing a key section in the title or adding a teaser in the intro — but ask first, don't just do it
 
 ## What's not allowed
 
